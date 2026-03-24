@@ -1,0 +1,30 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp and build files
+*.tmp
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Compiled binaries
+*.o
+*.out
+*.exe
